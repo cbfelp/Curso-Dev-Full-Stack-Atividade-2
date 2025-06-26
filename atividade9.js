@@ -21,4 +21,4 @@ const novosPares = objetoParaPares(objeto);
 console.log(novosPares);
 // Saída esperada:
 // { nome: 'João', idade: 30, cidade: 'São Paulo' }
-// [['nome', 'João'], ['idade', 30], ['cidade', 'São Paulo']]
+// [['nome', 'João'], ['idade', 30], ['cidade', 'São Paulo']]   
